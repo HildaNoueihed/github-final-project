@@ -21,7 +21,7 @@ This project was created as part of the **IBM Full Stack Software Developer** co
 git checkout -b feature-name
 ```
 4. **Make your changes**
-Update code, fix bugs, or add documentation
+   Update code, fix bugs, or add documentation.
 
 5. **Commit your changes**
 ```bash
