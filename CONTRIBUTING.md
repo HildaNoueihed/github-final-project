@@ -10,9 +10,10 @@ This project was created as part of the **IBM Full Stack Software Developer** co
 ## How to Contribute
 
 1. **Fork the repository**  
+
    Click the "Fork" button on the top right of this repository.
 
-2. **Clone your forked repository**
+3. **Clone your forked repository**
 ```bash
    git clone https://github.com/your-username/github-final-project.git
 ```
@@ -21,9 +22,10 @@ This project was created as part of the **IBM Full Stack Software Developer** co
 git checkout -b feature-name
 ```
 4. **Make your changes**
+
    Update code, fix bugs, or add documentation.
 
-5. **Commit your changes**
+6. **Commit your changes**
 ```bash
 git commit -m "Describe your change"
 ```
