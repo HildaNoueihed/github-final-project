@@ -61,5 +61,5 @@ Output:
 
 ## Credis
 
-Developed as part of the IBM Skills Network curriculum.
+Developed as part of the IBM Full Stack Software Developer curriculum.
 Thanks to IBM for providing course content and support.
